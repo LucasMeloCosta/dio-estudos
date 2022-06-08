@@ -1,2 +1,2 @@
-# dio-estudos
-Projetos de estudo
+# DIO Estudos
+Projetos de estudo e conhecimentos gerais.

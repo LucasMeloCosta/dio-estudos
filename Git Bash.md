@@ -1,0 +1,28 @@
+# Comandos
+
+- cd ""
+- cd ..
+- ls (listar)
+- ls -a (mostra arquivos ocultos)
+- mkdir (criar pasta)
+- echo "" > "".txt (criar arquivos)
+- rm -rf "" (deletar pastas e arquivos)
+- pwd (mostrar o caminho da pasta, ex: /c/Users/Lucas/.ssh)
+- clear ou ctrl+L
+- ssh-keygen -t ed25519 -C "email" (Criar chave ssh)
+- cat "" (vizualizar o conteudo da chave)
+- eval $(ssh-agent -s)  (inicia o processo)
+- ssh-add "" (adiciona a chave ssh privada pra descriptografar,fim do processo)
+- git clone "" (clonar um repositorio git)
+- git init (inicia um repositorio na pasta)
+- git config --global user.email ""email"" (config pra commit global)
+- git config --global user.name "" (config pra commit global)
+- git config --global --unset user."" (deletar)
+- git add *  (adicionar commit)
+- git commit -m "frase qualquer" (adicionar commit)
+- git push origin master (adicionar no git hub)
+- git pull origin master (importa do git hub)
+- git status (saber se tem alguma cosia pra commitar)
+- mv "arquivo" ./"diretorio" (mover arquivos pra outras pastas)
+- git remote -v (mostra todos os diretorios conectados)
+- git clone "url" (clonar diretorios)
